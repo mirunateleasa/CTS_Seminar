@@ -36,7 +36,7 @@ public class BookStore implements Cloneable{
 		BookStore store = new BookStore();
 		store.setName(name);
 		Book book;
-		for (int i = 0; i < 10; i++)
+		for (int i = 0; i < 4; i++)
 		{
 			book = new Book(name + "-" + (i+1), "miruna", i*100);
 			store.listBooks.add(book);
