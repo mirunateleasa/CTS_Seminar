@@ -1,0 +1,41 @@
+Please implement 5 design patterns (minimum 1 from each category) choosing from the following list:
+
+·        Creational: Factory Method, Builder.
+
+·        Structural: Composite, Decorator, Flyweight, Proxy.
+
+·        Behavioral: Strategy, Observer, Chain of Responsibility, Command, Memento, State, Template.
+
+
+
+Requirements:
+
+1.      Scenarios:
+
+All design patterns should have scenarios based on your license. For example, if the creational design pattern is using objects of the types “student” and “professor”, it is unusual that the structural design pattern uses “cat” and “dog”, or at least you need to explain the whole setup.
+
+If you do not use your license for the scenarios, you will get 0 pct.
+
+I recommend you choose 1 creational design pattern, 1 structural design pattern, and 3 behavioral design patterns, so you can practice from the last category.
+
+2.      Structure:
+
+For the name of the project, you need to use this example (“wxyz” – your group id): [CTS][Gwxyz][LastName_FirstName]
+
+For each design pattern, you need to create a specific package.
+
+Inside each package, you need to create a readMe.txt file where you explain the scenario and why that design pattern is suitable for your example.
+
+If you do not use this structure, you lose 0.25 pct.
+
+ 
+
+Each design pattern has 0.1 pct. If the scenario is not well explained (if it is not clear what the problem is or how the design pattern resolves the issue) or if the implementation is incorrect, then you get 0 pct for that specific example.
+
+Please do not use the examples from the seminars or the course, be creative as much as possible.
+
+Please keep in mind that the solutions will be tested for antiplagiarism.
+
+
+
+Please upload the file [CTS][Gwxyz][LastName_FirstName],zip here: https://forms.gle/FeTnmTEqvmtyybPg8
